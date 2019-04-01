@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Michelin_Guide</string>
+    <string name="string_search">Search</string>
+    <string name="string_location">Location</string>
+    <string name="string_category">Dish Category</string>
+    <string name="string_money">Price (10000 won)</string>
+    <string name="string_grade">Grade</string>
+    <string name="string_toolbar_name">Michelin Seoul</string>
+    <string name="string_money2">Price</string>
+
+    <string name="string_simple_category1">Name</string>
+    <string name="string_simple_category2">Locale</string>
+    <string name="string_simple_category3">Dish</string>
+
+    <string name="string_input_warning">Please enter a search term.</string>
+    <string name="string_close_warning">Press one more time to exit.</string>
+
+    <string name="string_language">한글</string>
+
+    <string name="string_alphabet_order">ABC</string>
+    <string name="string_price_order">Price</string>
+    <string name="string_grade_order">Grade</string>
+</resources>
